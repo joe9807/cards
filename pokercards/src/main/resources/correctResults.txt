@@ -1,0 +1,361 @@
+1  : D:\DIFFERENT\java_test_task\imgs\20180821_055341.782_0x26080126.png - 6s 5h 10h _ _
+2  : D:\DIFFERENT\java_test_task\imgs\20180821_060003.065_0x173E0290.png - 5s 8d 9h _ _
+3  : D:\DIFFERENT\java_test_task\imgs\20180821_062523.457_0x21840198.png - Ad 5h 8d 8s _
+4  : D:\DIFFERENT\java_test_task\imgs\20180821_064009.827_0x1934025E.png - Js Ah 10s Qs Kc
+5  : D:\DIFFERENT\java_test_task\imgs\20180821_072633.514_0x356801A2.png - Ad 5d 5s _ _
+6  : D:\DIFFERENT\java_test_task\imgs\20180821_080219.418_0x13910258.png - Qh 7c 6s _ _
+7  : D:\DIFFERENT\java_test_task\imgs\20180821_084134.865_0x240C023E.png - Kh 3d 2d 10c _
+8  : D:\DIFFERENT\java_test_task\imgs\20180821_091126.795_0x0EDA02B0.png - 7h Qs 5s _ _
+9  : D:\DIFFERENT\java_test_task\imgs\20180821_091220.884_0x0EDA02B0.png - Qs 7c Ah _ _
+10 : D:\DIFFERENT\java_test_task\imgs\20180821_091328.300_0x0EDA02B0.png - 9h 9c As _ _
+11 : D:\DIFFERENT\java_test_task\imgs\20180821_091532.020_0x0EDA02B0.png - Qh 8c Kc _ _
+12 : D:\DIFFERENT\java_test_task\imgs\20180821_091716.755_0x0EDA02B0.png - 5c 2s 2c _ _
+13 : D:\DIFFERENT\java_test_task\imgs\20180821_091842.811_0x0EDA02B0.png - 6c Ac Js _ _
+14 : D:\DIFFERENT\java_test_task\imgs\20180821_092326.632_0x0EDA02B0.png - Kc Jd Kh _ _
+15 : D:\DIFFERENT\java_test_task\imgs\20180821_092407.903_0x0EDA02B0.png - As 4h 9d _ _
+16 : D:\DIFFERENT\java_test_task\imgs\20180821_092500.887_0x0EDA02B0.png - 3c 6s Kd _ _
+17 : D:\DIFFERENT\java_test_task\imgs\20180821_092548.239_0x0EDA02B0.png - 8c 9s 6s _ _
+18 : D:\DIFFERENT\java_test_task\imgs\20180821_092757.986_0x0EDA02B0.png - Kh 5c Ah _ _
+19 : D:\DIFFERENT\java_test_task\imgs\20180821_092841.907_0x0EDA02B0.png - Jh Qd Kd _ _
+20 : D:\DIFFERENT\java_test_task\imgs\20180821_093042.838_0x1FE201D8.png - 7s 10d 6s _ _
+21 : D:\DIFFERENT\java_test_task\imgs\20180821_093116.384_0x1FE201D8.png - 4c 9d Js _ _
+22 : D:\DIFFERENT\java_test_task\imgs\20180821_093119.384_0x0EDA02B0.png - Qd 8d Ks _ _
+23 : D:\DIFFERENT\java_test_task\imgs\20180821_093223.794_0x1FE201D8.png - Ks 10s Js _ _
+24 : D:\DIFFERENT\java_test_task\imgs\20180821_093307.189_0x1FE201D8.png - Qd 9c 7s _ _
+25 : D:\DIFFERENT\java_test_task\imgs\20180821_093436.498_0x1FE201D8.png - 6c 9c 5c _ _
+26 : D:\DIFFERENT\java_test_task\imgs\20180821_093516.072_0x1FE201D8.png - 8h 3c Js _ _
+27 : D:\DIFFERENT\java_test_task\imgs\20180821_093525.214_0x0EDA02B0.png - 4s 7h 3s _ _
+28 : D:\DIFFERENT\java_test_task\imgs\20180821_093605.240_0x1FE201D8.png - 7c 6s 3h _ _
+29 : D:\DIFFERENT\java_test_task\imgs\20180821_093622.029_0x0EDA02B0.png - 10c 3s 9s _ _
+30 : D:\DIFFERENT\java_test_task\imgs\20180821_093635.645_0x1FE201D8.png - 9h Jd 2s _ _
+31 : D:\DIFFERENT\java_test_task\imgs\20180821_093714.230_0x1FE201D8.png - Qs 10h 9s _ _
+32 : D:\DIFFERENT\java_test_task\imgs\20180821_093736.244_0x1FE201D8.png - 10s Ac 10d _ _
+33 : D:\DIFFERENT\java_test_task\imgs\20180821_093817.171_0x1FE201D8.png - 9h Kh As _ _
+34 : D:\DIFFERENT\java_test_task\imgs\20180821_093850.288_0x0EDA02B0.png - Qd 6d 4d _ _
+35 : D:\DIFFERENT\java_test_task\imgs\20180821_093909.900_0x1FE201D8.png - 2s 6d Kd _ _
+36 : D:\DIFFERENT\java_test_task\imgs\20180821_093935.863_0x0EDA02B0.png - 3h Qs 4s _ _
+37 : D:\DIFFERENT\java_test_task\imgs\20180821_094036.670_0x1FE201D8.png - Kh 2s 2d _ _
+38 : D:\DIFFERENT\java_test_task\imgs\20180821_094128.878_0x1FE201D8.png - 3c Jc 9d Ah _
+39 : D:\DIFFERENT\java_test_task\imgs\20180821_094236.839_0x1FE201D8.png - Ah Ad Qc _ _
+40 : D:\DIFFERENT\java_test_task\imgs\20180821_094313.648_0x0EDA02B0.png - 8d 2h Qc _ _
+41 : D:\DIFFERENT\java_test_task\imgs\20180821_094313.951_0x1FE201D8.png - 10s Ah 7c _ _
+42 : D:\DIFFERENT\java_test_task\imgs\20180821_094353.982_0x1FE201D8.png - 8s Jh 5s _ _
+43 : D:\DIFFERENT\java_test_task\imgs\20180821_094423.256_0x1FE201D8.png - 10c Qc 7s _ _
+44 : D:\DIFFERENT\java_test_task\imgs\20180821_094450.827_0x0EDA02B0.png - Jh 6c 4h _ _
+45 : D:\DIFFERENT\java_test_task\imgs\20180821_094458.109_0x1FE201D8.png - 2s Ks 2c _ _
+46 : D:\DIFFERENT\java_test_task\imgs\20180821_094533.036_0x1FE201D8.png - Ac Qd 8h _ _
+47 : D:\DIFFERENT\java_test_task\imgs\20180821_094655.897_0x1FE201D8.png - 10d Ah 10h _ _
+48 : D:\DIFFERENT\java_test_task\imgs\20180821_094732.846_0x1FE201D8.png - Jd 10d Ac _ _
+49 : D:\DIFFERENT\java_test_task\imgs\20180821_094755.280_0x0EDA02B0.png - Ad 8s Jc _ _
+50 : D:\DIFFERENT\java_test_task\imgs\20180821_094823.078_0x1FE201D8.png - 7s 8c 6c _ _
+51 : D:\DIFFERENT\java_test_task\imgs\20180821_094920.436_0x1FE201D8.png - 6s 5h Qh _ _
+52 : D:\DIFFERENT\java_test_task\imgs\20180821_094953.336_0x0EDA02B0.png - 8s 7h 5c _ _
+53 : D:\DIFFERENT\java_test_task\imgs\20180821_095029.657_0x1FE201D8.png - 9s 6c 4d _ _
+54 : D:\DIFFERENT\java_test_task\imgs\20180821_095119.701_0x1FE201D8.png - 8s 9h Ad _ _
+55 : D:\DIFFERENT\java_test_task\imgs\20180821_095123.702_0x0EDA02B0.png - 5h 3h 6c _ _
+56 : D:\DIFFERENT\java_test_task\imgs\20180821_095240.289_0x1FE201D8.png - Kd 2s 6c _ _
+57 : D:\DIFFERENT\java_test_task\imgs\20180821_095243.212_0x0EDA02B0.png - 7c 5s 2c _ _
+58 : D:\DIFFERENT\java_test_task\imgs\20180821_095329.292_0x1FE201D8.png - 5c Kh 2h _ _
+59 : D:\DIFFERENT\java_test_task\imgs\20180821_095427.623_0x0EDA02B0.png - 3s 7s Kc 8d _
+60 : D:\DIFFERENT\java_test_task\imgs\20180821_095438.605_0x1FE201D8.png - 4s 7c 9c _ _
+61 : D:\DIFFERENT\java_test_task\imgs\20180821_095528.057_0x1FE201D8.png - Ac 9c 2h _ _
+62 : D:\DIFFERENT\java_test_task\imgs\20180821_095541.561_0x0EDA02B0.png - Qc Kh 4s _ _
+63 : D:\DIFFERENT\java_test_task\imgs\20180821_095616.438_0x1FE201D8.png - 5s Kc Ks _ _
+64 : D:\DIFFERENT\java_test_task\imgs\20180821_095704.200_0x1FE201D8.png - Qc 9d 6s _ _
+65 : D:\DIFFERENT\java_test_task\imgs\20180821_095755.396_0x0EDA02B0.png - 5d Kh As _ _
+66 : D:\DIFFERENT\java_test_task\imgs\20180821_100002.173_0x1FE201D8.png - 6s 3d 10c _ _
+67 : D:\DIFFERENT\java_test_task\imgs\20180821_100127.029_0x1FE201D8.png - 2h As 4d _ _
+68 : D:\DIFFERENT\java_test_task\imgs\20180821_100129.193_0x0EDA02B0.png - 6d 2d 10h _ _
+69 : D:\DIFFERENT\java_test_task\imgs\20180821_100204.027_0x1FE201D8.png - 4c Ac 10c _ _
+70 : D:\DIFFERENT\java_test_task\imgs\20180821_100250.115_0x1FE201D8.png - 10c Js 9c _ _
+71 : D:\DIFFERENT\java_test_task\imgs\20180821_100304.831_0x0EDA02B0.png - 3s 4s Js _ _
+72 : D:\DIFFERENT\java_test_task\imgs\20180821_100323.597_0x1FE201D8.png - 5d 2h Qh _ _
+73 : D:\DIFFERENT\java_test_task\imgs\20180821_100436.428_0x1FE201D8.png - 2s As Kc _ _
+74 : D:\DIFFERENT\java_test_task\imgs\20180821_100449.803_0x0EDA02B0.png - 9s Jc 3d _ _
+75 : D:\DIFFERENT\java_test_task\imgs\20180821_100525.788_0x1FE201D8.png - 7s Qs 9s _ _
+76 : D:\DIFFERENT\java_test_task\imgs\20180821_100605.335_0x0EDA02B0.png - 3c 7d 9d _ _
+77 : D:\DIFFERENT\java_test_task\imgs\20180821_100610.335_0x1FE201D8.png - As 7d 5d _ _
+78 : D:\DIFFERENT\java_test_task\imgs\20180821_100726.830_0x1FE201D8.png - 7s Js 2h _ _
+79 : D:\DIFFERENT\java_test_task\imgs\20180821_100903.525_0x1FE201D8.png - 5s 4h Jc _ _
+80 : D:\DIFFERENT\java_test_task\imgs\20180821_100940.505_0x0EDA02B0.png - 5s 6s Qd _ _
+81 : D:\DIFFERENT\java_test_task\imgs\20180821_101110.672_0x1FE201D8.png - 3c 6c 8c _ _
+82 : D:\DIFFERENT\java_test_task\imgs\20180821_101150.950_0x1FE201D8.png - 4d 5s 4s 9s _
+83 : D:\DIFFERENT\java_test_task\imgs\20180821_101152.948_0x0EDA02B0.png - 2c Qc 5s _ _
+84 : D:\DIFFERENT\java_test_task\imgs\20180821_101249.658_0x1FE201D8.png - 9s 6d Qh _ _
+85 : D:\DIFFERENT\java_test_task\imgs\20180821_101306.754_0x1CFF023A.png - 2d 8s 6d _ _
+86 : D:\DIFFERENT\java_test_task\imgs\20180821_101341.235_0x1CFF023A.png - 7d Qh 2c _ _
+87 : D:\DIFFERENT\java_test_task\imgs\20180821_101342.944_0x0EDA02B0.png - 5h Qd 8h _ _
+88 : D:\DIFFERENT\java_test_task\imgs\20180821_101345.441_0x1FE201D8.png - 4h Jh Qc _ _
+89 : D:\DIFFERENT\java_test_task\imgs\20180821_101433.475_0x0EDA02B0.png - Jh Qd Jc _ _
+90 : D:\DIFFERENT\java_test_task\imgs\20180821_101438.292_0x1CFF023A.png - 8d 2d Ac _ _
+91 : D:\DIFFERENT\java_test_task\imgs\20180821_101448.588_0x1FE201D8.png - Kd 10h 2c _ _
+92 : D:\DIFFERENT\java_test_task\imgs\20180821_101517.124_0x0EDA02B0.png - Ac 3s 6h _ _
+93 : D:\DIFFERENT\java_test_task\imgs\20180821_101539.150_0x1CFF023A.png - 5d 7s Kh _ _
+94 : D:\DIFFERENT\java_test_task\imgs\20180821_101556.692_0x1FE201D8.png - Jc 8h Qc _ _
+95 : D:\DIFFERENT\java_test_task\imgs\20180821_101655.650_0x1FE201D8.png - 2h 10c 8d _ _
+96 : D:\DIFFERENT\java_test_task\imgs\20180821_101710.826_0x0EDA02B0.png - 2d Kd Jc _ _
+97 : D:\DIFFERENT\java_test_task\imgs\20180821_101745.283_0x1CFF023A.png - 7h 8s 10h _ _
+98 : D:\DIFFERENT\java_test_task\imgs\20180821_101816.460_0x1FE201D8.png - 7c 8d 6s _ _
+99 : D:\DIFFERENT\java_test_task\imgs\20180821_101825.311_0x0EDA02B0.png - 5s Qs 8h _ _
+100: D:\DIFFERENT\java_test_task\imgs\20180821_101829.312_0x1CFF023A.png - Kd Qs 3s _ _
+101: D:\DIFFERENT\java_test_task\imgs\20180821_102040.520_0x0EDA02B0.png - 6h 4h 9s Qc _
+102: D:\DIFFERENT\java_test_task\imgs\20180821_102051.723_0x1FE201D8.png - 2d 8d 4s _ _
+103: D:\DIFFERENT\java_test_task\imgs\20180821_102107.514_0x1CFF023A.png - 4c Js 8c _ _
+104: D:\DIFFERENT\java_test_task\imgs\20180821_102205.135_0x1FE201D8.png - 10s Qh 6c _ _
+105: D:\DIFFERENT\java_test_task\imgs\20180821_102214.941_0x0EDA02B0.png - 7d 7c 7h _ _
+106: D:\DIFFERENT\java_test_task\imgs\20180821_102216.828_0x1CFF023A.png - 8d 4d 7s _ _
+107: D:\DIFFERENT\java_test_task\imgs\20180821_102322.523_0x1CFF023A.png - 9d Jd 9h _ _
+108: D:\DIFFERENT\java_test_task\imgs\20180821_102328.773_0x1FE201D8.png - 7d Jc 6s Ah 5s
+109: D:\DIFFERENT\java_test_task\imgs\20180821_102504.809_0x1FE201D8.png - 10d 5c Js _ _
+110: D:\DIFFERENT\java_test_task\imgs\20180821_102515.910_0x0EDA02B0.png - 5c 4d 3d Qh _
+111: D:\DIFFERENT\java_test_task\imgs\20180821_102540.505_0x0EDA02B0.png - Ac 4c Jc _ _
+112: D:\DIFFERENT\java_test_task\imgs\20180821_102555.915_0x1CFF023A.png - Ac 10h 6c _ _
+113: D:\DIFFERENT\java_test_task\imgs\20180821_102622.911_0x1CFF023A.png - 6d 10s Jc _ _
+114: D:\DIFFERENT\java_test_task\imgs\20180821_102625.344_0x1FE201D8.png - 3d 7s 2c _ _
+115: D:\DIFFERENT\java_test_task\imgs\20180821_102637.123_0x0EDA02B0.png - 9s Kc 2h _ _
+116: D:\DIFFERENT\java_test_task\imgs\20180821_102752.590_0x1FE201D8.png - 5h Qs 8h _ _
+117: D:\DIFFERENT\java_test_task\imgs\20180821_102811.310_0x0EDA02B0.png - Kc 10h 2h _ _
+118: D:\DIFFERENT\java_test_task\imgs\20180821_102839.975_0x1CFF023A.png - Kc 2d 8d _ _
+119: D:\DIFFERENT\java_test_task\imgs\20180821_102917.308_0x1CFF023A.png - Ac 5c Kc _ _
+120: D:\DIFFERENT\java_test_task\imgs\20180821_102931.331_0x1FE201D8.png - 10c Kh Kd 7h _
+121: D:\DIFFERENT\java_test_task\imgs\20180821_102935.007_0x0EDA02B0.png - Jd 3c Kh _ _
+122: D:\DIFFERENT\java_test_task\imgs\20180821_102955.799_0x1CFF023A.png - Kd Ad 7d _ _
+123: D:\DIFFERENT\java_test_task\imgs\20180821_103014.908_0x1FE201D8.png - 5d 9c 7c _ _
+124: D:\DIFFERENT\java_test_task\imgs\20180821_103045.835_0x0EDA02B0.png - Kh 8d Jc _ _
+125: D:\DIFFERENT\java_test_task\imgs\20180821_103107.967_0x1FE201D8.png - Kd 5d 4h 6s _
+126: D:\DIFFERENT\java_test_task\imgs\20180821_103149.290_0x1CFF023A.png - 2h 8c 7s _ _
+127: D:\DIFFERENT\java_test_task\imgs\20180821_103207.357_0x0EDA02B0.png - 5d 4c 3h _ _
+128: D:\DIFFERENT\java_test_task\imgs\20180821_103256.597_0x1FE201D8.png - 7d Ad 3c _ _
+129: D:\DIFFERENT\java_test_task\imgs\20180821_103314.225_0x0EDA02B0.png - 2s 3d Ah _ _
+130: D:\DIFFERENT\java_test_task\imgs\20180821_103335.998_0x1FE201D8.png - 3h 5d 10s _ _
+131: D:\DIFFERENT\java_test_task\imgs\20180821_103356.171_0x1CFF023A.png - 4d Jh 10d _ _
+132: D:\DIFFERENT\java_test_task\imgs\20180821_103414.107_0x0EDA02B0.png - 6d Js 4s _ _
+133: D:\DIFFERENT\java_test_task\imgs\20180821_103418.646_0x1FE201D8.png - Qd 3h 10d _ _
+134: D:\DIFFERENT\java_test_task\imgs\20180821_103506.014_0x1CFF023A.png - 7c 9c 8s _ _
+135: D:\DIFFERENT\java_test_task\imgs\20180821_103513.058_0x0EDA02B0.png - 10s 6h 8d _ _
+136: D:\DIFFERENT\java_test_task\imgs\20180821_103528.437_0x1FE201D8.png - Kh Jd 5h _ _
+137: D:\DIFFERENT\java_test_task\imgs\20180821_103603.124_0x0EDA02B0.png - 7c 10s Qh _ _
+138: D:\DIFFERENT\java_test_task\imgs\20180821_103626.001_0x1CFF023A.png - Kh Qh 5c _ _
+139: D:\DIFFERENT\java_test_task\imgs\20180821_103647.720_0x1FE201D8.png - As Ad 6h _ _
+140: D:\DIFFERENT\java_test_task\imgs\20180821_103700.562_0x0EDA02B0.png - Qd 9d 9h _ _
+141: D:\DIFFERENT\java_test_task\imgs\20180821_103752.890_0x1FE201D8.png - 5s 9c 4h _ _
+142: D:\DIFFERENT\java_test_task\imgs\20180821_103818.684_0x1CFF023A.png - Ah 3d 2c _ _
+143: D:\DIFFERENT\java_test_task\imgs\20180821_103823.299_0x0EDA02B0.png - 6c Ad 4c _ _
+144: D:\DIFFERENT\java_test_task\imgs\20180821_103833.913_0x1FE201D8.png - 3d 10s 9h _ _
+145: D:\DIFFERENT\java_test_task\imgs\20180821_103900.602_0x1CFF023A.png - 9s 7h Qd _ _
+146: D:\DIFFERENT\java_test_task\imgs\20180821_103923.938_0x0EDA02B0.png - Qc 5h 5d _ _
+147: D:\DIFFERENT\java_test_task\imgs\20180821_103948.101_0x1FE201D8.png - Kd Ac 7h Ks _
+148: D:\DIFFERENT\java_test_task\imgs\20180821_103949.411_0x1CFF023A.png - 5h 2s Jc _ _
+149: D:\DIFFERENT\java_test_task\imgs\20180821_104025.223_0x1CFF023A.png - 10c Ks Qh _ _
+150: D:\DIFFERENT\java_test_task\imgs\20180821_104038.575_0x0EDA02B0.png - 9s Kd 5c _ _
+151: D:\DIFFERENT\java_test_task\imgs\20180821_104048.369_0x1FE201D8.png - 10h 10s 7d 5h _
+152: D:\DIFFERENT\java_test_task\imgs\20180821_104137.556_0x1CFF023A.png - 7h 3d 5h _ _
+153: D:\DIFFERENT\java_test_task\imgs\20180821_104147.344_0x0EDA02B0.png - 10s 6h 10c _ _
+154: D:\DIFFERENT\java_test_task\imgs\20180821_104213.774_0x1FE201D8.png - 8s 7c 4s _ _
+155: D:\DIFFERENT\java_test_task\imgs\20180821_104248.505_0x0EDA02B0.png - Jd Qd 3c _ _
+156: D:\DIFFERENT\java_test_task\imgs\20180821_104325.845_0x1FE201D8.png - Ks 6d Ah _ _
+157: D:\DIFFERENT\java_test_task\imgs\20180821_104404.277_0x1FE201D8.png - 10c 3s 2d _ _
+158: D:\DIFFERENT\java_test_task\imgs\20180821_104453.846_0x0EDA02B0.png - Kc 5d 3h _ _
+159: D:\DIFFERENT\java_test_task\imgs\20180821_104505.631_0x1CFF023A.png - 9c 5h 9s _ _
+160: D:\DIFFERENT\java_test_task\imgs\20180821_104537.470_0x1FE201D8.png - 3c 7c 2d _ _
+161: D:\DIFFERENT\java_test_task\imgs\20180821_104600.824_0x0EDA02B0.png - 8d 2h 7s _ _
+162: D:\DIFFERENT\java_test_task\imgs\20180821_104650.021_0x0EDA02B0.png - 4c 2h 7c _ _
+163: D:\DIFFERENT\java_test_task\imgs\20180821_104657.703_0x1FE201D8.png - Qh Js 3s _ _
+164: D:\DIFFERENT\java_test_task\imgs\20180821_104737.249_0x0EDA02B0.png - Kh Ad 8h _ _
+165: D:\DIFFERENT\java_test_task\imgs\20180821_104815.658_0x1CFF023A.png - Qs As 6c _ _
+166: D:\DIFFERENT\java_test_task\imgs\20180821_104832.685_0x1FE201D8.png - Ac 7c Ad _ _
+167: D:\DIFFERENT\java_test_task\imgs\20180821_104849.385_0x0EDA02B0.png - 2h 3h 4s _ _
+168: D:\DIFFERENT\java_test_task\imgs\20180821_104915.336_0x1FE201D8.png - 3d 4h 5s _ _
+169: D:\DIFFERENT\java_test_task\imgs\20180821_104933.711_0x0EDA02B0.png - 8c 6s Kh _ _
+170: D:\DIFFERENT\java_test_task\imgs\20180821_105015.210_0x1FE201D8.png - 7d Qh 5s _ _
+171: D:\DIFFERENT\java_test_task\imgs\20180821_105038.580_0x0EDA02B0.png - 5h 5d 7s _ _
+172: D:\DIFFERENT\java_test_task\imgs\20180821_105115.879_0x1CFF023A.png - 8s 8d Qh _ _
+173: D:\DIFFERENT\java_test_task\imgs\20180821_105139.696_0x1FE201D8.png - 8h 4s Ah 8s _
+174: D:\DIFFERENT\java_test_task\imgs\20180821_105212.467_0x1CFF023A.png - 4c 5s 10d _ _
+175: D:\DIFFERENT\java_test_task\imgs\20180821_105219.308_0x1FE201D8.png - Ad 10c Jh _ _
+176: D:\DIFFERENT\java_test_task\imgs\20180821_105308.692_0x1FE201D8.png - 4h Ah 3s 7h _
+177: D:\DIFFERENT\java_test_task\imgs\20180821_105310.199_0x1CFF023A.png - Ad 3h 10d _ _
+178: D:\DIFFERENT\java_test_task\imgs\20180821_105321.279_0x0EDA02B0.png - 2c 3d Ah _ _
+179: D:\DIFFERENT\java_test_task\imgs\20180821_105354.312_0x1FE201D8.png - 5c 8d 4s _ _
+180: D:\DIFFERENT\java_test_task\imgs\20180821_105355.584_0x0EDA02B0.png - Js Qh 10h _ _
+181: D:\DIFFERENT\java_test_task\imgs\20180821_105417.843_0x1CFF023A.png - 9c 9d 3h _ _
+182: D:\DIFFERENT\java_test_task\imgs\20180821_105449.554_0x0EDA02B0.png - Qc 5h 2h Qd _
+183: D:\DIFFERENT\java_test_task\imgs\20180821_105453.557_0x1FE201D8.png - Kd 4d 10d _ _
+184: D:\DIFFERENT\java_test_task\imgs\20180821_105545.545_0x1FE201D8.png - Js Kd 9c _ _
+185: D:\DIFFERENT\java_test_task\imgs\20180821_105550.077_0x0EDA02B0.png - 2d 2c 6h _ _
+186: D:\DIFFERENT\java_test_task\imgs\20180821_105637.037_0x0EDA02B0.png - 3h 9h Ks _ _
+187: D:\DIFFERENT\java_test_task\imgs\20180821_105652.802_0x1FE201D8.png - 6c As 5d _ _
+188: D:\DIFFERENT\java_test_task\imgs\20180821_105741.509_0x1CFF023A.png - Ks 5s Ad _ _
+189: D:\DIFFERENT\java_test_task\imgs\20180821_105812.829_0x0EDA02B0.png - 10h Kc 3c _ _
+190: D:\DIFFERENT\java_test_task\imgs\20180821_105910.169_0x1CFF023A.png - 3d 4s Kd _ _
+191: D:\DIFFERENT\java_test_task\imgs\20180821_105912.655_0x1FE201D8.png - Qd Ad 4d 7c Qc
+192: D:\DIFFERENT\java_test_task\imgs\20180821_105959.510_0x0EDA02B0.png - Js 3h 2s _ _
+193: D:\DIFFERENT\java_test_task\imgs\20180821_110000.502_0x1CFF023A.png - Jd 4s 2h _ _
+194: D:\DIFFERENT\java_test_task\imgs\20180821_110027.430_0x1FE201D8.png - 8s 10h 8d As _
+195: D:\DIFFERENT\java_test_task\imgs\20180821_110033.570_0x1CFF023A.png - 2c 9s 9d _ _
+196: D:\DIFFERENT\java_test_task\imgs\20180821_110049.156_0x0EDA02B0.png - 5s 2s Kc _ _
+197: D:\DIFFERENT\java_test_task\imgs\20180821_110114.431_0x1FE201D8.png - 6c 7h 9h _ _
+198: D:\DIFFERENT\java_test_task\imgs\20180821_110136.833_0x0EDA02B0.png - As 5s 5h _ _
+199: D:\DIFFERENT\java_test_task\imgs\20180821_110227.487_0x0EDA02B0.png - Ks 4s 2s _ _
+200: D:\DIFFERENT\java_test_task\imgs\20180821_110234.571_0x1CFF023A.png - Qh 2c 6c _ _
+201: D:\DIFFERENT\java_test_task\imgs\20180821_110243.143_0x1FE201D8.png - Jh Kd 4d _ _
+202: D:\DIFFERENT\java_test_task\imgs\20180821_110321.418_0x1FE201D8.png - 10d Jc 8h _ _
+203: D:\DIFFERENT\java_test_task\imgs\20180821_110325.306_0x1CFF023A.png - 9s 3s 8s _ _
+204: D:\DIFFERENT\java_test_task\imgs\20180821_110339.969_0x0EDA02B0.png - 10c 6h 5s _ _
+205: D:\DIFFERENT\java_test_task\imgs\20180821_110412.515_0x1CFF023A.png - 2d Kc 8h _ _
+206: D:\DIFFERENT\java_test_task\imgs\20180821_110443.013_0x1FE201D8.png - 6c Kc 2c 8s 8h
+207: D:\DIFFERENT\java_test_task\imgs\20180821_110446.334_0x0EDA02B0.png - Ah 8h 10s _ _
+208: D:\DIFFERENT\java_test_task\imgs\20180821_110451.837_0x1CFF023A.png - Jd 3s 6d _ _
+209: D:\DIFFERENT\java_test_task\imgs\20180821_110622.577_0x1CFF023A.png - 6s 5s 2h _ _
+210: D:\DIFFERENT\java_test_task\imgs\20180821_110639.862_0x0EDA02B0.png - Kh As Ah _ _
+211: D:\DIFFERENT\java_test_task\imgs\20180821_110724.827_0x1CFF023A.png - Qs 5d 10c _ _
+212: D:\DIFFERENT\java_test_task\imgs\20180821_110745.240_0x1FE201D8.png - As Qc 10h _ _
+213: D:\DIFFERENT\java_test_task\imgs\20180821_110837.344_0x0EDA02B0.png - 5s Jd Qc _ _
+214: D:\DIFFERENT\java_test_task\imgs\20180821_110907.019_0x1FE201D8.png - 5c Qs 2c _ _
+215: D:\DIFFERENT\java_test_task\imgs\20180821_110926.015_0x1CFF023A.png - 10c Qs 2d _ _
+216: D:\DIFFERENT\java_test_task\imgs\20180821_110929.318_0x0EDA02B0.png - Kh 9d Jc _ _
+217: D:\DIFFERENT\java_test_task\imgs\20180821_111042.258_0x1FE201D8.png - Kc 9h 4c _ _
+218: D:\DIFFERENT\java_test_task\imgs\20180821_111054.466_0x0EDA02B0.png - Jc Qh 5s _ _
+219: D:\DIFFERENT\java_test_task\imgs\20180821_111106.002_0x1CFF023A.png - 5d 5h 3s _ _
+220: D:\DIFFERENT\java_test_task\imgs\20180821_111133.366_0x0EDA02B0.png - 3h 5d Ks _ _
+221: D:\DIFFERENT\java_test_task\imgs\20180821_111223.756_0x1FE201D8.png - 5c Qs 6h _ _
+222: D:\DIFFERENT\java_test_task\imgs\20180821_111314.172_0x1CFF023A.png - 2d 2s 4h _ _
+223: D:\DIFFERENT\java_test_task\imgs\20180821_111349.917_0x1FE201D8.png - 7s Jh 7c _ _
+224: D:\DIFFERENT\java_test_task\imgs\20180821_111357.947_0x0EDA02B0.png - 8h 3s Kd _ _
+225: D:\DIFFERENT\java_test_task\imgs\20180821_111440.428_0x1FE201D8.png - 2s 9s Qs _ _
+226: D:\DIFFERENT\java_test_task\imgs\20180821_111448.339_0x1CFF023A.png - 7c 9h 7d _ _
+227: D:\DIFFERENT\java_test_task\imgs\20180821_111505.781_0x0EDA02B0.png - 7h 10s 6s _ _
+228: D:\DIFFERENT\java_test_task\imgs\20180821_111602.817_0x1FE201D8.png - 8d 8s 4d 8h _
+229: D:\DIFFERENT\java_test_task\imgs\20180821_111623.302_0x1CFF023A.png - 10s 7c 7h _ _
+230: D:\DIFFERENT\java_test_task\imgs\20180821_111643.319_0x0EDA02B0.png - 6c Qs 10c _ _
+231: D:\DIFFERENT\java_test_task\imgs\20180821_111704.179_0x1FE201D8.png - 4h 9h 6h _ _
+232: D:\DIFFERENT\java_test_task\imgs\20180821_111814.694_0x1CFF023A.png - 2s Qs 10h 10c _
+233: D:\DIFFERENT\java_test_task\imgs\20180821_111844.316_0x0EDA02B0.png - 7s 7h 4s _ _
+234: D:\DIFFERENT\java_test_task\imgs\20180821_111850.923_0x1CFF023A.png - 7c Js 9d _ _
+235: D:\DIFFERENT\java_test_task\imgs\20180821_111906.799_0x1FE201D8.png - 7c Ad 2s _ _
+236: D:\DIFFERENT\java_test_task\imgs\20180821_111937.179_0x0EDA02B0.png - 8h 7d Qh _ _
+237: D:\DIFFERENT\java_test_task\imgs\20180821_111952.707_0x1CFF023A.png - 5d 4s 7s _ _
+238: D:\DIFFERENT\java_test_task\imgs\20180821_112010.803_0x1FE201D8.png - 2c 7h 3c 10c _
+239: D:\DIFFERENT\java_test_task\imgs\20180821_112045.307_0x0EDA02B0.png - 10c As 5d _ _
+240: D:\DIFFERENT\java_test_task\imgs\20180821_112054.422_0x1CFF023A.png - Ad Ah 4s _ _
+241: D:\DIFFERENT\java_test_task\imgs\20180821_112128.649_0x0EDA02B0.png - 6c 9c Ah _ _
+242: D:\DIFFERENT\java_test_task\imgs\20180821_112310.483_0x1FE201D8.png - 10s 2s Jc _ _
+243: D:\DIFFERENT\java_test_task\imgs\20180821_112343.404_0x0EDA02B0.png - Ac Kc 10d 6s _
+244: D:\DIFFERENT\java_test_task\imgs\20180821_112346.505_0x1CFF023A.png - 2h Qs Kh _ _
+245: D:\DIFFERENT\java_test_task\imgs\20180821_112410.065_0x0EDA02B0.png - 8h 8s Kd _ _
+246: D:\DIFFERENT\java_test_task\imgs\20180821_112444.758_0x1CFF023A.png - 4s 2h 2d _ _
+247: D:\DIFFERENT\java_test_task\imgs\20180821_112458.512_0x0EDA02B0.png - As 8c 6c _ _
+248: D:\DIFFERENT\java_test_task\imgs\20180821_112549.317_0x0EDA02B0.png - Jh 8s 2c _ _
+249: D:\DIFFERENT\java_test_task\imgs\20180821_112602.590_0x1FE201D8.png - 9h 2c 2s _ _
+250: D:\DIFFERENT\java_test_task\imgs\20180821_112615.941_0x1CFF023A.png - Js 2d 10h _ _
+251: D:\DIFFERENT\java_test_task\imgs\20180821_112701.166_0x1CFF023A.png - 9d 6s Js _ _
+252: D:\DIFFERENT\java_test_task\imgs\20180821_112719.679_0x0EDA02B0.png - 10h 2s 5h _ _
+253: D:\DIFFERENT\java_test_task\imgs\20180821_112726.163_0x1FE201D8.png - 8s 2h 5s _ _
+254: D:\DIFFERENT\java_test_task\imgs\20180821_112756.703_0x1CFF023A.png - 6s Js Kh _ _
+255: D:\DIFFERENT\java_test_task\imgs\20180821_112822.877_0x1FE201D8.png - 2c 10h 3d _ _
+256: D:\DIFFERENT\java_test_task\imgs\20180821_112832.312_0x0EDA02B0.png - Jh Ac 8d _ _
+257: D:\DIFFERENT\java_test_task\imgs\20180821_112908.511_0x1CFF023A.png - Jh 6h 10s _ _
+258: D:\DIFFERENT\java_test_task\imgs\20180821_112908.513_0x0EDA02B0.png - 7h 4c Qd _ _
+259: D:\DIFFERENT\java_test_task\imgs\20180821_113008.457_0x1FE201D8.png - 4h 7s Ac _ _
+260: D:\DIFFERENT\java_test_task\imgs\20180821_113013.034_0x1CFF023A.png - 10s 6s 3d _ _
+261: D:\DIFFERENT\java_test_task\imgs\20180821_113016.744_0x0EDA02B0.png - 3c Jc Kh _ _
+262: D:\DIFFERENT\java_test_task\imgs\20180821_113134.864_0x1FE201D8.png - Kh 10s 8h _ _
+263: D:\DIFFERENT\java_test_task\imgs\20180821_113158.734_0x1CFF023A.png - 4h As 2d 2s _
+264: D:\DIFFERENT\java_test_task\imgs\20180821_113207.953_0x0EDA02B0.png - 9d 9c 5d _ _
+265: D:\DIFFERENT\java_test_task\imgs\20180821_113229.189_0x1FE201D8.png - Qs Qd 8c _ _
+266: D:\DIFFERENT\java_test_task\imgs\20180821_113244.677_0x0EDA02B0.png - 6h 8s 10d _ _
+267: D:\DIFFERENT\java_test_task\imgs\20180821_113257.451_0x1CFF023A.png - Kh 8c 7d _ _
+268: D:\DIFFERENT\java_test_task\imgs\20180821_113322.322_0x1FE201D8.png - 9h 10c Jd _ _
+269: D:\DIFFERENT\java_test_task\imgs\20180821_113416.267_0x0EDA02B0.png - 5h 4s 7s _ _
+270: D:\DIFFERENT\java_test_task\imgs\20180821_113418.766_0x1CFF023A.png - 5d 2d Ac _ _
+271: D:\DIFFERENT\java_test_task\imgs\20180821_113446.143_0x1FE201D8.png - 6h 10h As _ _
+272: D:\DIFFERENT\java_test_task\imgs\20180821_113501.953_0x1CFF023A.png - 3h 9h 5d _ _
+273: D:\DIFFERENT\java_test_task\imgs\20180821_113520.691_0x1FE201D8.png - 3c 7d 5h _ _
+274: D:\DIFFERENT\java_test_task\imgs\20180821_113526.105_0x0EDA02B0.png - Qs 10h 2c _ _
+275: D:\DIFFERENT\java_test_task\imgs\20180821_113558.444_0x1CFF023A.png - 10s 7d Kh _ _
+276: D:\DIFFERENT\java_test_task\imgs\20180821_113601.724_0x0EDA02B0.png - Kh 10s 2s _ _
+277: D:\DIFFERENT\java_test_task\imgs\20180821_113642.555_0x1FE201D8.png - 4s 9c 7s _ _
+278: D:\DIFFERENT\java_test_task\imgs\20180821_113715.693_0x1FE201D8.png - 3s 3c Js _ _
+279: D:\DIFFERENT\java_test_task\imgs\20180821_113727.714_0x1CFF023A.png - 5s 10c Qc _ _
+280: D:\DIFFERENT\java_test_task\imgs\20180821_113817.704_0x0EDA02B0.png - 10d 5d 4d _ _
+281: D:\DIFFERENT\java_test_task\imgs\20180821_113838.861_0x1CFF023A.png - Js 10s 8d _ _
+282: D:\DIFFERENT\java_test_task\imgs\20180821_113925.131_0x1CFF023A.png - 7d 7s Kh 7h _
+283: D:\DIFFERENT\java_test_task\imgs\20180821_113929.334_0x1FE201D8.png - Kd Ah 3s _ _
+284: D:\DIFFERENT\java_test_task\imgs\20180821_114016.215_0x1FE201D8.png - Ac 4d 8d _ _
+285: D:\DIFFERENT\java_test_task\imgs\20180821_114016.612_0x0EDA02B0.png - 7h 4c Ad _ _
+286: D:\DIFFERENT\java_test_task\imgs\20180821_114041.864_0x1CFF023A.png - 5h Qh 7h _ _
+287: D:\DIFFERENT\java_test_task\imgs\20180821_114118.953_0x1FE201D8.png - 7d 6d 8d _ _
+288: D:\DIFFERENT\java_test_task\imgs\20180821_114127.452_0x0EDA02B0.png - 10d 2c Ks _ _
+289: D:\DIFFERENT\java_test_task\imgs\20180821_114130.507_0x1CFF023A.png - 8h 8c 9h _ _
+290: D:\DIFFERENT\java_test_task\imgs\20180821_114155.265_0x1FE201D8.png - 5s 8d 7s _ _
+291: D:\DIFFERENT\java_test_task\imgs\20180821_114215.965_0x0EDA02B0.png - 4c 2d 7s _ _
+292: D:\DIFFERENT\java_test_task\imgs\20180821_114312.805_0x1FE201D8.png - 10c 8s Qd _ _
+293: D:\DIFFERENT\java_test_task\imgs\20180821_114333.158_0x0EDA02B0.png - 7d Qd 9h _ _
+294: D:\DIFFERENT\java_test_task\imgs\20180821_114344.894_0x1CFF023A.png - As 8h Ad _ _
+295: D:\DIFFERENT\java_test_task\imgs\20180821_114432.166_0x0EDA02B0.png - 3h 10d Jd _ _
+296: D:\DIFFERENT\java_test_task\imgs\20180821_114449.091_0x1FE201D8.png - 5s 7c 2s 10h _
+297: D:\DIFFERENT\java_test_task\imgs\20180821_114539.434_0x0EDA02B0.png - 9d 5d 5h Kh _
+298: D:\DIFFERENT\java_test_task\imgs\20180821_114620.332_0x1FE201D8.png - 2c Kd Js _ _
+299: D:\DIFFERENT\java_test_task\imgs\20180821_114656.986_0x1CFF023A.png - Ks 6s 9d _ _
+300: D:\DIFFERENT\java_test_task\imgs\20180821_114716.778_0x0EDA02B0.png - 3d 9s 2d _ _
+301: D:\DIFFERENT\java_test_task\imgs\20180821_114722.784_0x1FE201D8.png - Kd Ad As 10s _
+302: D:\DIFFERENT\java_test_task\imgs\20180821_114748.503_0x1CFF023A.png - 7s 6h Ks _ _
+303: D:\DIFFERENT\java_test_task\imgs\20180821_114811.462_0x1FE201D8.png - Jh 8d 3d _ _
+304: D:\DIFFERENT\java_test_task\imgs\20180821_114835.400_0x0EDA02B0.png - 4h Kh Ah _ _
+305: D:\DIFFERENT\java_test_task\imgs\20180821_114840.404_0x1CFF023A.png - Kc 2s Kh _ _
+306: D:\DIFFERENT\java_test_task\imgs\20180821_114853.418_0x1FE201D8.png - 3h 7h 3c _ _
+307: D:\DIFFERENT\java_test_task\imgs\20180821_114925.507_0x0EDA02B0.png - 7c Ks 6h _ _
+308: D:\DIFFERENT\java_test_task\imgs\20180821_114959.929_0x1FE201D8.png - 9c 3c 8d _ _
+309: D:\DIFFERENT\java_test_task\imgs\20180821_115017.594_0x0EDA02B0.png - 3h 6h Ah _ _
+310: D:\DIFFERENT\java_test_task\imgs\20180821_115051.875_0x1FE201D8.png - 3s 8s 3c _ _
+311: D:\DIFFERENT\java_test_task\imgs\20180821_115111.444_0x0EDA02B0.png - 2s 8c 9d _ _
+312: D:\DIFFERENT\java_test_task\imgs\20180821_115149.421_0x1CFF023A.png - 3h 8c Ah _ _
+313: D:\DIFFERENT\java_test_task\imgs\20180821_115153.965_0x0EDA02B0.png - 9c Qh 3c _ _
+314: D:\DIFFERENT\java_test_task\imgs\20180821_115154.964_0x1FE201D8.png - 7h 6s Jd _ _
+315: D:\DIFFERENT\java_test_task\imgs\20180821_115259.926_0x0EDA02B0.png - 2h 4c 3s _ _
+316: D:\DIFFERENT\java_test_task\imgs\20180821_115307.756_0x1FE201D8.png - Kh 7d 9s _ _
+317: D:\DIFFERENT\java_test_task\imgs\20180821_115318.695_0x1CFF023A.png - 6h 6s Qh _ _
+318: D:\DIFFERENT\java_test_task\imgs\20180821_115429.655_0x0EDA02B0.png - 3s Qc 3d _ _
+319: D:\DIFFERENT\java_test_task\imgs\20180821_115501.392_0x1FE201D8.png - 4d 6d 5s _ _
+320: D:\DIFFERENT\java_test_task\imgs\20180821_115521.326_0x0EDA02B0.png - Ad Jh 7s _ _
+321: D:\DIFFERENT\java_test_task\imgs\20180821_115544.512_0x1CFF023A.png - Jc As 5c 2c _
+322: D:\DIFFERENT\java_test_task\imgs\20180821_115609.782_0x1FE201D8.png - Qc 3d 5c _ _
+323: D:\DIFFERENT\java_test_task\imgs\20180821_115640.484_0x1CFF023A.png - 8d As Qc 2c 8s
+324: D:\DIFFERENT\java_test_task\imgs\20180821_115700.922_0x1FE201D8.png - 10d Jh 7c _ _
+325: D:\DIFFERENT\java_test_task\imgs\20180821_115708.874_0x0EDA02B0.png - 9h Ks 6d _ _
+326: D:\DIFFERENT\java_test_task\imgs\20180821_115806.059_0x0EDA02B0.png - 2h 8d 9h _ _
+327: D:\DIFFERENT\java_test_task\imgs\20180821_115808.928_0x1FE201D8.png - Qh 4c As _ _
+328: D:\DIFFERENT\java_test_task\imgs\20180821_115825.970_0x1CFF023A.png - 5c Jc 9d _ _
+329: D:\DIFFERENT\java_test_task\imgs\20180821_115906.894_0x0EDA02B0.png - Ks Qc 3s _ _
+330: D:\DIFFERENT\java_test_task\imgs\20180821_115922.962_0x1FE201D8.png - 7d 5s 4h _ _
+331: D:\DIFFERENT\java_test_task\imgs\20180821_120002.260_0x1CFF023A.png - 4h Kh 4d As _
+332: D:\DIFFERENT\java_test_task\imgs\20180821_120016.499_0x0EDA02B0.png - 4c 3d 6h _ _
+333: D:\DIFFERENT\java_test_task\imgs\20180821_120039.117_0x1FE201D8.png - 10h 4s 4c _ _
+334: D:\DIFFERENT\java_test_task\imgs\20180821_120039.381_0x1CFF023A.png - Ad 3s 10s _ _
+335: D:\DIFFERENT\java_test_task\imgs\20180821_120110.685_0x0EDA02B0.png - 8d 10c 9h _ _
+336: D:\DIFFERENT\java_test_task\imgs\20180821_120146.773_0x1FE201D8.png - 8d 5d Kd _ _
+337: D:\DIFFERENT\java_test_task\imgs\20180821_120215.110_0x0EDA02B0.png - 3c 7c 6h _ _
+338: D:\DIFFERENT\java_test_task\imgs\20180821_120219.175_0x1FE201D8.png - 5c 7c 5s _ _
+339: D:\DIFFERENT\java_test_task\imgs\20180821_120241.032_0x1CFF023A.png - 4s Jd Kd Kc _
+340: D:\DIFFERENT\java_test_task\imgs\20180821_120300.748_0x1FE201D8.png - Ks 2h 4d _ _
+341: D:\DIFFERENT\java_test_task\imgs\20180821_120313.866_0x0EDA02B0.png - 4h Kc 3d _ _
+342: D:\DIFFERENT\java_test_task\imgs\20180821_120340.438_0x1CFF023A.png - 9d 6s Qh _ _
+343: D:\DIFFERENT\java_test_task\imgs\20180821_120426.230_0x1FE201D8.png - Jd Qh Jc _ _
+344: D:\DIFFERENT\java_test_task\imgs\20180821_120455.623_0x1CFF023A.png - 10c Qs Kd _ _
+345: D:\DIFFERENT\java_test_task\imgs\20180821_120514.926_0x0EDA02B0.png - 9d 8h Qc _ _
+346: D:\DIFFERENT\java_test_task\imgs\20180821_120528.685_0x1FE201D8.png - 8c Ad Jd _ _
+347: D:\DIFFERENT\java_test_task\imgs\20180821_120613.788_0x0EDA02B0.png - 7c Kh 8s _ _
+348: D:\DIFFERENT\java_test_task\imgs\20180821_120619.905_0x1FE201D8.png - 4s 4h 7h Kc _
+349: D:\DIFFERENT\java_test_task\imgs\20180821_120654.090_0x1FE201D8.png - 10h 6c Qs _ _
+350: D:\DIFFERENT\java_test_task\imgs\20180821_120727.213_0x0EDA02B0.png - Kd Ad 9s Qc _
+351: D:\DIFFERENT\java_test_task\imgs\20180821_120743.713_0x1FE201D8.png - 8c 9d 3h _ _
+352: D:\DIFFERENT\java_test_task\imgs\20180821_120745.048_0x1CFF023A.png - 6d Kd As _ _
+353: D:\DIFFERENT\java_test_task\imgs\20180821_120841.137_0x0EDA02B0.png - 4h Qd 7s _ _
+354: D:\DIFFERENT\java_test_task\imgs\20180821_120904.045_0x1FE201D8.png - 9c 5c 9d _ _
+355: D:\DIFFERENT\java_test_task\imgs\20180821_120927.241_0x0EDA02B0.png - Jc 8c 3s _ _
+356: D:\DIFFERENT\java_test_task\imgs\20180821_121006.616_0x1FE201D8.png - 2d 3d 10c _ _
+357: D:\DIFFERENT\java_test_task\imgs\20180821_121036.744_0x1CFF023A.png - 4c Js 6c _ _
+358: D:\DIFFERENT\java_test_task\imgs\20180821_121056.162_0x1FE201D8.png - Ah 10s 5d _ _
+359: D:\DIFFERENT\java_test_task\imgs\20180821_121119.035_0x1CFF023A.png - 8d 4h 10h _ _
+360: D:\DIFFERENT\java_test_task\imgs\20180821_121130.001_0x1FE201D8.png - 7h As 5h _ _
+361: D:\DIFFERENT\java_test_task\imgs\20180821_121300.085_0x1CFF023A.png - Qh Kd Js _ _
