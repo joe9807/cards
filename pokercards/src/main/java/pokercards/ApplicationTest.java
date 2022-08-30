@@ -113,7 +113,7 @@ public class ApplicationTest {
 			Path jarFile = Paths.get(jar.toString().substring("file:/".length()));
 			
 			List<String> result = new ArrayList<String>();
-			Files.newDirectoryStream(FileSystems.newFileSystem(jarFile, null).getPath(CHECK)).forEach(path->{
+			Files.newDirectoryStream(FileSystems.newFileSystem(jarFile).getPath(CHECK)).forEach(path->{
 				result.add(path.toString());
 			});
 			return result;
